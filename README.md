@@ -1,5 +1,9 @@
 # UMA-AIF
 
+[![tests](https://github.com/kaymyg/uma-aif/actions/workflows/tests.yml/badge.svg)](https://github.com/kaymyg/uma-aif/actions/workflows/tests.yml)
+[![CodeQL](https://github.com/kaymyg/uma-aif/actions/workflows/codeql.yml/badge.svg)](https://github.com/kaymyg/uma-aif/actions/workflows/codeql.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Sampling-based internal-state auditing for transformer activations.
 
 A research instrument, not a product. It samples a fixed budget of layers per
