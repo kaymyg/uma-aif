@@ -198,3 +198,8 @@ tests/              31 tests: units, one per v1 defect, end-to-end
 ## Licence
 
 MIT.
+
+## Contributing
+
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get set up and run the checks,
+and [SECURITY.md](SECURITY.md) for reporting vulnerabilities privately.
